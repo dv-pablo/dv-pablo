@@ -1,4 +1,4 @@
-# Hi there, I'm Pablo and I work with Aggregation, as a Software Enginner 👋
+# Hi there, I'm Pablo and I work with Aggregation, as a Software Engineer 👋
 ### If you work with me, feel free to reach out at Slack.
 ###### If you do not, then, go check my personal github instead :) (https://github.com/pablovenino)
 
